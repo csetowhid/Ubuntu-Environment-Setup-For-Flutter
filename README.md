@@ -42,15 +42,6 @@ flutter doctor
 ```
 
 ## Install Android Studio
-
-- Download and install [Android Studio](https://developer.android.com/studio)
-
-- After Download, Move & Extract The File to the new created Environment folder
-
-- Go to the android studio bin folder and open the terminal
-
-- Type `./studio.sh` to install the android studio
-
 ### Install JDK
 
 ```
