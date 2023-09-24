@@ -19,6 +19,9 @@ sudo apt install curl
 
 ## Install Flutter manually
 
+- ```sudo snap install flutter --classic```
+
+
 - [Visit](https://docs.flutter.dev/get-started/install/linux) & Download the installation bundle to get the latest stable release of the Flutter SDK
 
 - After Download the SDK Create Folder For Flutter Environment.
@@ -26,7 +29,7 @@ sudo apt install curl
 - Go to the bin folder in flutter and copy the path directory and paste that in `.bashrc` file.
 
 ```
-export PATH="$PATH:`path/bin"
+export PATH="$PATH:/var/www/Flutter/flutter/bin""
 ```
  
 - Type `flutter` in the trminal and run for check the flutter installation
