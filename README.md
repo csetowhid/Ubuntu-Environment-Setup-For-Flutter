@@ -1,7 +1,7 @@
 # Ubuntu Environment Setup For Flutter
 
 
-Before Running Any Command You Need To Run
+Before Running Any Command Please Run
 
 ```
  sudo apt update
